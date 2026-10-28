@@ -3,3 +3,8 @@ Console.Write("Введите ФИО: ");
 string name = Console.ReadLine();
 Console.Write("Введите группу: ");
 string group = Console.ReadLine();
+Console.WriteLine("МЕНЮ:");
+Console.WriteLine("1 — Показать ФИО");
+Console.WriteLine("2 — Показать группу");
+Console.WriteLine("3 — Показать дату");
+Console.WriteLine("4 — Выход");
